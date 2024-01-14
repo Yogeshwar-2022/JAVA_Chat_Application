@@ -1,2 +1,4 @@
-# JAVA_Chat_Application
-Requirments :-  Java Basics [OOPS] , Networking ( socket programming ) Swing-GUI 
+# JAVA_Chat_Application 
+Requirments :-  Java Basics [OOPS] ,Multithreading, Networking ( socket programming ) Swing-GUI
+
+
